@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="违规用电"
+            android:gravity="center"
+            android:textSize="35dp"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="60dp"
+            android:text="宿舍"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:id="@+id/name5"/>
+
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="60dp"
+            android:text="时间"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:id="@+id/time4"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/name5" />
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="60dp"
+            android:text="停电次数"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:id="@+id/many3"
+            android:layout_alignBottom="@+id/time4"
+            android:layout_toEndOf="@+id/time4" />
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="60dp"
+            android:text="停电原因"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:id="@+id/reson2"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/many3" />
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="60dp"
+            android:text="主要责任人"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:id="@+id/people1"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+ <ListView
+     android:layout_width="match_parent"
+     android:layout_height="563dp"
+     android:id="@+id/my_violation_view"
+     ></ListView>
+
+    </LinearLayout>
+</LinearLayout>

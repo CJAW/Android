@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_7ac041c02fe44cf2b6b1dcc68ee87bdb549b2bde.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/cssparser-0.9.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="be59b8e492327e69ef1571266f1a34d83d7b2417">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/cssparser-0.9.13_b0390a25b11d07a1bfa59fc105df22079540837f.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/sac-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cdb2dcb4e22b83d6b32b93095f644c3462739e82">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/sac-1.3_9586fd84dbd24d7993e042618653602a16fe9aec.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_e7c5f73da8a463037e7da40c3b265eb033b0a34a.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_fe130f3f1d5ea4ca42740a6198e2f5236acb1f5b.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/httpclient-4.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="10a45d03873baa34436ae54548d9f1140d4bb68a">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/httpclient-4.3.2_b201c2de2349f97f1576b375783b6d738b64e65b.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/jetty-io-8.1.14.v20131031.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="12f6f92d7e58349501f2cfc0716b8f1c6a2962eb">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/jetty-io-8.1.14.v20131031_6efe990d17ce0a6b8f1b3bdbc9da17e895bcf84a.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/htmlunit-core-js-2.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77e78f065dc90726226c47ccd1b6babc4687c18b">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/htmlunit-core-js-2.14_553331d861fc1d0c80212733f362d47729ef6455.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/jetty-util-8.1.14.v20131031.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="43063284480a41eca024dc8852452eedf6379c16">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/jetty-util-8.1.14.v20131031_0c6816954407dd23c49ec4960794908b6dc23529.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/jetty-websocket-8.1.14.v20131031.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eca95fc1d20a71cd4adc89b35df473798118deaa">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/jetty-websocket-8.1.14.v20131031_07bbfa3c296e2507becf936956868f631539675f.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/commons-collections-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="761ea405b9b37ced573d2df0d1e3a4e0f9edc668">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/commons-collections-3.2.1_f65eb9fd5fbed7b5dfea286297670ffed5357a26.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0_bbbd5a39131c4c677d39292b9b747bed4b38b6fd.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/commons-logging-1.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/commons-logging-1.1.3_a483e79dfd20c77406c2dcf913d825851431d7e0.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/libs/commons-lang3-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66f13681add50ca9e4546ffabafaaac7645db3cf">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/commons-lang3-3.2.1_9eb3d049755e332d5910a50d8d3f99a5792f3433.jar" />
+    </item>
+    <item
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_a1f869bbeb733ec77f07f56b8333e811d21d804b.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_6140f9ebd8abb262d9366be09a2965ff6a96a822.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/user/Desktop/android/InputOrOutputFiled/ClassDesgin/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_85a4d5eb9336a315c70c7999024328988a4eb589.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,260 @@
+[
+    {
+        "outputFile": "/Users/user/Desktop/android/Android03/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/item.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 45,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 46,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 50,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 57,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 55,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 41,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 41,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 52,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 67,
+                        "endColumn": 52,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 50,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 50,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 89,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 90,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endColumn": 79,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "/Users/user/Desktop/android/Android03/app/src/main/res/values-w820dp/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 80,
+                        "endOffset": 693
+                    }
+                }
+            }
+        ]
+    }
+]

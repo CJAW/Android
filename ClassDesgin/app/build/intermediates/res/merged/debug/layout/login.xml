@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/login2"
+    >
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1"
+        android:layout_marginTop="150dp"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/tableLayout">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/boder"
+                android:text="用户名："
+                android:textSize="50px"
+                />
+
+            <EditText
+                android:id="@+id/number"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:background="@android:drawable/editbox_background"
+                android:hint="用户名:" >
+            </EditText>
+
+        </TableRow>
+
+
+        <TableRow>
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/boder"
+                android:text="密码："
+                android:textSize="50px"
+                />
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:background="@android:drawable/editbox_background"
+                android:password="true"
+                android:hint="密码:" >
+            </EditText>
+        </TableRow>
+
+
+    </TableLayout>
+
+
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="120dp"
+        android:textSize="20dp"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_default"
+        android:text="登陆"
+        android:textColor="#00aaaa"
+        android:layout_marginTop="53dp"
+        android:layout_below="@+id/tableLayout"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

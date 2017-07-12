@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/welcomes">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="79dp">
+
+        <Button
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:text="r"
+            android:textSize="8dp"
+            android:gravity="center"
+            android:id="@+id/returns"/>
+
+        <TextView
+            android:layout_width="271dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="欢迎使用"
+            android:textSize="25dp"/>
+    </LinearLayout>
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+       <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/my_message"
+           android:text="个人信息"
+           android:layout_alignParentTop="true"
+           android:layout_toStartOf="@+id/my_violation" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="班级信息"
+        android:id="@+id/my_class"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/my_attendance" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/my_attendance"
+        android:text="考勤"
+        android:layout_alignTop="@+id/my_exam"
+        android:layout_alignStart="@+id/my_prize" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/my_exam"
+        android:text="考试"
+        android:layout_above="@+id/my_open_class"
+        android:layout_alignStart="@+id/my_open_class"
+        android:layout_marginBottom="64dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/my_prize"
+        android:text="奖罚"
+        android:layout_alignTop="@+id/my_open_class"
+        android:layout_alignStart="@+id/my_violation" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/my_open_class"
+        android:text="开设课程"
+        android:layout_above="@+id/achievement"
+        android:layout_alignStart="@+id/achievement"
+        android:layout_marginBottom="59dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/my_violation"
+        android:text="违规"
+        android:layout_alignTop="@+id/achievement"
+        android:layout_toEndOf="@+id/achievement"
+        android:layout_marginStart="82dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/achievement"
+        android:text="成绩"
+        android:layout_marginStart="48dp"
+        android:layout_marginBottom="48dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
+
+
+</LinearLayout>
+

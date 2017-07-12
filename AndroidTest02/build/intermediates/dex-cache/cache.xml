@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_a1f869bbeb733ec77f07f56b8333e811d21d804b.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_9edecccd3a58f830f854debf14c5ae55dabfde5c.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_7677a81e85b55cc197bff165f67a6f0c00587f17.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_7b33c06f38e91ca2aeb99dbbecbf5d93501986f1.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_3450bafedc9b1efa64a57e50c38fb316704d2c6f.jar" />
+    </item>
+    <item
+        jar="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/user/Desktop/android/AndroidTest02/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_d0c0b2e8f17a3bb94ffdd311fd2596e3545a91e3.jar" />
+    </item>
+
+</items>

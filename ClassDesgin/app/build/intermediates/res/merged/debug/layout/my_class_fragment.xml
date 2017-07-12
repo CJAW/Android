@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="课程表"
+            android:gravity="center"
+            android:textSize="55dp"/>
+        <!--<Button-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="开启提醒"-->
+            <!--android:id="@+id/open"-->
+            <!--android:layout_alignParentEnd="true"-->
+            <!--android:layout_alignParentBottom="true" />-->
+    </RelativeLayout>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:id="@+id/relativeLayout">
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textviewa"
+            android:text="星期一"
+            android:gravity="center"
+            android:paddingLeft="15dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textviewb"
+            android:text="星期二"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/textviewa" />
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textViewc"
+            android:text="星期三"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/textviewb" />
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textViewd"
+            android:text="星期四"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/textViewc" />
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textViewe"
+            android:text="星期五"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/textViewd" />
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textViewf"
+            android:text="星期六"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/textViewe" />
+
+        <TextView
+            android:layout_width="75dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textViewg"
+            android:text="星期天"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/textViewf" />
+
+    </RelativeLayout>
+</LinearLayout>
+
+    </HorizontalScrollView>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <ListView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:id="@+id/class_listview">
+
+
+       </ListView>
+
+
+   </LinearLayout>
+
+</LinearLayout>

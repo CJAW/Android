@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/user/Desktop/android/SliderActivate/app/build/intermediates/res/merged/debug/menu/activity_navigation_activate_drawer.xml",
+        "source": "/Users/user/Desktop/android/SliderActivate/app/src/main/res/menu/activity_navigation_activate_drawer.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/android/SliderActivate/app/build/intermediates/res/merged/debug/menu/navigation_activate.xml",
+        "source": "/Users/user/Desktop/android/SliderActivate/app/src/main/res/menu/navigation_activate.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/android/SliderActivate/app/build/intermediates/res/merged/debug/menu/menu_slider_activate.xml",
+        "source": "/Users/user/Desktop/android/SliderActivate/app/src/main/res/menu/menu_slider_activate.xml"
+    }
+]

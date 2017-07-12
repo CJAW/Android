@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/user/Desktop/android/TableTest/app/build/intermediates/res/merged/debug/menu/menu_tables_view_test.xml",
+        "source": "/Users/user/Desktop/android/TableTest/app/src/main/res/menu/menu_tables_view_test.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/android/TableTest/app/build/intermediates/res/merged/debug/menu/menu_table.xml",
+        "source": "/Users/user/Desktop/android/TableTest/app/src/main/res/menu/menu_table.xml"
+    }
+]

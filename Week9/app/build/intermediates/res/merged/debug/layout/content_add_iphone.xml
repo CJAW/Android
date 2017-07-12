@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.user.week9.AddIphone"
+    tools:showIn="@layout/activity_add_iphone">
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:text="添加联系人"
+        android:id="@+id/addText"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="name"
+        android:id="@+id/addName"
+        android:layout_below="@+id/addText"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Number"
+        android:id="@+id/addNumber"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/addName"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="email"
+        android:id="@+id/addEmail"
+        android:layout_marginTop="160dp"
+        android:layout_below="@+id/addName"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="添加"
+        android:id="@+id/addIphone"
+        android:layout_marginTop="57dp"
+        android:layout_below="@+id/addEmail"
+        android:layout_alignEnd="@+id/addText" />
+</RelativeLayout>

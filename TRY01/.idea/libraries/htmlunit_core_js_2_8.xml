@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="htmlunit-core-js-2.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/htmlunit-core-js-2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

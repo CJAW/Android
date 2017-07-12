@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/welcomes"
+    android:background="@drawable/welcom1"
+    >
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="欢迎使用"
+        android:textColor="#FF4000"
+        android:textSize="25sp"/>
+<TableRow>
+        <Button
+            android:id="@+id/my_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/student"
+            android:layout_marginLeft="75dp"
+            />
+
+    <Button
+        android:id="@+id/my_class"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/class1"
+        android:layout_column="1" />
+</TableRow>
+<TableRow >
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="个人信息"
+            android:textSize="15dp"
+            android:layout_marginLeft="45dp"
+            />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="班级信息"
+            android:textSize="15dp"
+            android:layout_marginLeft="30dp"/>
+</TableRow>
+<TableRow>
+        <Button
+            android:id="@+id/my_attendance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="75dp"
+            android:background="@drawable/kaoqing1"
+            />
+
+        <Button
+            android:id="@+id/my_exam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/test"
+            />
+</TableRow>
+<TableRow >
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="考勤"
+            android:textSize="15dp"
+            android:layout_marginLeft="45dp"
+            />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="考试"
+            android:textSize="15dp"
+            android:layout_marginLeft="30dp"
+            />
+</TableRow>
+<TableRow>
+        <Button
+            android:id="@+id/my_prize"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/jianfa"
+            android:layout_marginLeft="75dp"
+            />
+
+        <Button
+            android:id="@+id/my_open_class"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/class2"/>
+</TableRow>
+<TableRow >
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="奖罚"
+            android:textSize="15dp"
+            android:layout_marginLeft="45dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="开设课程"
+            android:textSize="15dp"
+            android:layout_marginLeft="30dp"/>
+</TableRow>
+<TableRow>
+        <Button
+            android:id="@+id/my_violation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="75dp"
+            android:background="@drawable/weigui" />
+
+        <Button
+            android:id="@+id/achievement"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/chengji" />
+</TableRow>
+<TableRow >
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="违规"
+            android:textSize="15dp"
+            android:layout_marginLeft="45dp"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="成绩"
+            android:textSize="15dp"
+            android:layout_marginLeft="30dp"/>
+</TableRow>
+    </TableLayout>
+</LinearLayout>
+

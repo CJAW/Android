@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<laungages cat="it">
+    <lan id="1">
+        <name>java</name>
+        <ide>eclipse</ide>
+    </lan>
+
+    <lan id="2">
+        <name>c++</name>
+        <ide>vs</ide>
+    </lan>
+
+    <lan id="3">
+        <name>switch</name>
+        <ide>xcode</ide>
+    </lan>
+
+</laungages>
